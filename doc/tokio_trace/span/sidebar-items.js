@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Attributes","Attributes provided to a `Subscriber` describing a new span when it is created."],["Id","Identifies a span within the context of a subscriber."],["Span","A handle representing a span, with the capability to enter the span if it exists."]]});
